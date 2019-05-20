@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springMVC_controller:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/springMVC_controller_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springMVC_controller" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="springMVC_controller/web/Web" />
+      <element id="directory" name="folder">
+        <element id="javaee-facet-resources" facet="springMVC_controller/web/Web" />
+      </element>
+    </root>
+  </artifact>
+</component>
